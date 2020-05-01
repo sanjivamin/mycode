@@ -1,0 +1,25 @@
+# mycode (Project Title)
+
+One paragraph of your project description goes here. Describe what you're trying to do.
+What is the purpose of creating this repo?
+
+## Getting Started
+
+These instructions will provide you with a copy of the project, up and running on your local machine
+for development and testing purposes. See deployment for notes on how to deploy the project
+on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them. For now, maybe copy in
+how to install Python and Python3 using apt.
+
+* Kubernetes Ap[plication Developer knowledge essencial
+
+## Built With
+
+* Kubernetes 
+
+## Authors
+
+* **Sanjiv Amin** - *Initial work*

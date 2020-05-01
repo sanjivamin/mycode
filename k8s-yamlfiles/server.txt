@@ -1,0 +1,1 @@
+CHALLENGE: Add a new ConfigMap that serves a txt file into a new directory /var/www/docs that NGINX will serve. To do this:
